@@ -1,11 +1,11 @@
 # Moje wykonanie Lab00
 
 - Login GitHub / pseudonim: dzemkwas
-- System i terminal (np. Windows + WSL Ubuntu): Arch linux and zsh
-- Edytor / IDE: vim
+- System i terminal (np. Windows + WSL Ubuntu): Arch linux, zsh
+- Edytor / IDE: neovim
 - Wersja Git: 2.55
 - Wersja kompilatora C++: 16.2.1
-- Wersje java i javac: ...
+- Wersje java i javac: 21.0.12.1
 - Link do pierwszego PR (uzupełnij w zadaniu 5): ...
 
 ## Uruchomienie lokalne
@@ -25,7 +25,7 @@ Wynik programu Java:
 - Czy Actions pokazały błąd, a po naprawie sukces? ...
 
 ## Krótkie odpowiedzi
-1. Co różni commit od push? Commit zapisuje zmiany lokalnie a push przerzuca obecne commit history do repozytorium zdalnego
+1. Co różni commit od push? Commit zapisuje zmiany lokalnie a push przerzuca obecny commit history do repozytorium zdalnego
 2. Dlaczego po scaleniu PR wykonuję lokalnie pull? ...
 3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? ...
 
