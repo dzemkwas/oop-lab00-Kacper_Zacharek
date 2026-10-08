@@ -202,14 +202,14 @@ Nie scalaj błędnego kodu do `main`. Historia gałęzi pozwala zobaczyć zarów
 Przekaż prowadzącemu link do swojego repozytorium w sposób podany na zajęciach. Jeśli repozytorium jest prywatne, zapewnij prowadzącemu dostęp: w swoim repozytorium otwórz **Settings → Collaborators**, wybierz **Add people** i zaproś jego dokładny login GitHub podany na zajęciach. Prowadzący musi zaakceptować zaproszenie. Dla publicznego repozytorium do odczytu wystarczy link.
 
 ### Lista kontrolna
-- [ x ] Repozytorium zadania jest moje i zostało sklonowane lokalnie.
-- [ x ] Oba programy uruchomiłem/am na swoim komputerze i zmieniłem/am ich komunikaty.
-- [ x ] STUDENT.md jest uzupełniony, a wyniki kompilacji nie trafiły do Git.
-- [ x ] Pierwszy PR pokazuje moje zmiany i został scalony.
-- [ x ] Potrafię wskazać błędny commit i commit z poprawką.
-- [ x ] Drugi PR został scalony, a finalny kod działa.
-- [ x ] Finalne uruchomienie Actions na main jest zielone, jeśli Actions są dostępne.
-- [ x ] Lokalny main jest zsynchronizowany po merge.
+- [x] Repozytorium zadania jest moje i zostało sklonowane lokalnie.
+- [x] Oba programy uruchomiłem/am na swoim komputerze i zmieniłem/am ich komunikaty.
+- [x] STUDENT.md jest uzupełniony, a wyniki kompilacji nie trafiły do Git.
+- [x] Pierwszy PR pokazuje moje zmiany i został scalony.
+- [x] Potrafię wskazać błędny commit i commit z poprawką.
+- [x] Drugi PR został scalony, a finalny kod działa.
+- [x] Finalne uruchomienie Actions na main jest zielone, jeśli Actions są dostępne.
+- [x] Lokalny main jest zsynchronizowany po merge.
 
 Na krótkiej obronie pokaż uruchomienie programów i odpowiedz na dwa pytania:
 1. Co różni commit od push?
